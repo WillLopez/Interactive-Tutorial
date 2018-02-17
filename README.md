@@ -27,7 +27,7 @@ You can find a GitHub tutorial [here](https://github.com/AguaClara/aguaclara_tut
 
 1. Below this, write a sentence or two about yourself:
 
-I was born and raised in Hackensack New Jersey. I have an older brother who is four years older than I am. 
+I grew up in the West suburbs of Philadelphia and study Mechanical Engineering at Cornell.
 
 
 
@@ -64,7 +64,7 @@ There are several different ways to emphasize text: *italics*, **bold**, ***comb
 
 1. Write 4 of your favorite words using each type of emphasis:
 
-*Azeotrope* **Sphincter** ***bubbles*** ~~piglet~~
+*Success* **future** ***charismatic*** ~~president~~
 ## Lists
 Lists are very easy to do. For a bulleted list, use the asterisk and for a numbered list, use the number followed by a period. Hitting `Enter` after a bullet or number continues the list automatically. Hitting `Enter` followed by `Tab` gets you a sub item for a bulleted list. For example:
 
