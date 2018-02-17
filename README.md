@@ -110,7 +110,7 @@ Image with Height and Width Adjusted:
 <!--- Fill you answer here. --->
 
 
-![toffee](https://github.com/stevenlopez182/Personal2/blob/master/Images/IMG_2830.JPG?raw=true)
+![toffee](https://github.com/wml43/Personal/blob/master/Images/Hometown.jpg)
 
 
 ## Links
@@ -120,7 +120,7 @@ To insert a link, all you have to do is enclose your linked text in `[]` followe
 
 1. Below, write a sentence describing your major, and insert a link to your major's department website.
 
-I am a [Mechanical Engineer](https://www.mae.cornell.edu) I study dynamic systems and mechanical design. 
+I am a [Mechanical Engineer](https://www.mae.cornell.edu) I study dynamic systems and design of machinery. 
 
 ## Tables
 Tables in Markdown are slightly harder, but there's an automatic function that allows to you make one easily. When working in a `.md` file, all you have to do is type `table` and hit enter. It will initialize a 2 by 2 table, but you can easily increase the width by going to the last column and hitting `Tab` or it's height by clicking in any cell and hitting `Enter`. Notice in the example how the text below the header is justified left, center, and right. This is due to the line below the header. A line with a colon on the far left of the dashes only indicates left justified, colons on both sides of the dashes indicates centered, and a colon on the far right of the dashes indicates right justified.
